@@ -1,4 +1,5 @@
 # EDA-Airline-Passenger-Satisfaction
+![plane](plane3.jpg)
 ###### by Hanifah Nurfahmi
 
 # **LATAR BELAKANG**
